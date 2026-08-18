@@ -1,0 +1,202 @@
+@tailwind utilities;
+
+/* Clean Flat White Admin Panel Theme - Zero Red & 100% High Contrast Text */
+:root {
+  --theme-bg: #ffffff;
+  --theme-input-bg: #f8fafc;
+  --theme-text: #0f172a;
+  --theme-overlay: rgba(15, 23, 42, 0.4);
+  --font-body: 'Manrope', sans-serif;
+  --font-mono: monospace;
+  --style-radius-s: 8px;
+  --style-radius-m: 12px;
+  --style-radius-l: 16px;
+  --nav-width: 275px;
+
+  /* Greyscale Colors */
+  --color-base-0: #ffffff;
+  --color-base-50: #ffffff;
+  --color-base-100: #f8fafc;
+  --color-base-150: #f1f5f9;
+  --color-base-200: #e2e8f0;
+  --color-base-300: #cbd5e1;
+  --color-base-400: #94a3b8;
+  --color-base-500: #64748b;
+  --color-base-600: #475569;
+  --color-base-700: #334155;
+  --color-base-800: #1e293b;
+  --color-base-900: #0f172a;
+
+  /* Replace all Error Red with Clean Corporate Slate / White */
+  --color-error-50: #f8fafc;
+  --color-error-100: #f1f5f9;
+  --color-error-200: #e2e8f0;
+  --color-error-300: #cbd5e1;
+  --color-error-400: #94a3b8;
+  --color-error-500: #2563eb;
+  --color-error-600: #1d4ed8;
+  --color-error-700: #1e40af;
+
+  /* Corporate Accent Colors */
+  --color-accent-50: #eff6ff;
+  --color-accent-100: #dbeafe;
+  --color-accent-200: #bfdbfe;
+  --color-accent-300: #93c5fd;
+  --color-accent-400: #60a5fa;
+  --color-accent-500: #2563eb;
+  --color-accent-600: #1d4ed8;
+  --color-accent-700: #1e40af;
+
+  /* Elevation variables for light table rows */
+  --theme-elevation-0: #ffffff;
+  --theme-elevation-50: #f8fafc;
+  --theme-elevation-100: #ffffff;
+  --theme-elevation-150: #f1f5f9;
+  --theme-elevation-200: #e2e8f0;
+  --theme-elevation-250: #cbd5e1;
+  --theme-elevation-300: #94a3b8;
+  --theme-elevation-400: #64748b;
+  --theme-elevation-500: #475569;
+  --theme-elevation-600: #334155;
+  --theme-elevation-700: #1e293b;
+  --theme-elevation-800: #0f172a;
+  --theme-elevation-850: #0f172a;
+  --theme-elevation-900: #0f172a;
+}
+
+/* Force Clean White Admin Container */
+html, body, .template-default, .template-minimal, .payload-admin {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+  font-family: 'Manrope', sans-serif !important;
+}
+
+/* Sidebar Navigation - Clean Flat Dark Slate */
+.nav {
+  background-color: #0f172a !important;
+  color: #ffffff !important;
+  border-right: 1px solid #1e293b !important;
+}
+
+.nav__link {
+  color: #cbd5e1 !important;
+  font-weight: 600 !important;
+  border-radius: 8px !important;
+}
+
+.nav__link:hover, .nav__link--active {
+  background-color: #1e293b !important;
+  color: #ffffff !important;
+}
+
+.nav-group__label {
+  color: #94a3b8 !important;
+  font-size: 0.75rem !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.05em !important;
+}
+
+/* Admin Dashboard Cards - Flat Clean White */
+.card {
+  background-color: #ffffff !important;
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 12px !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) !important;
+  color: #0f172a !important;
+}
+
+.card:hover {
+  border-color: #2563eb !important;
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.1) !important;
+}
+
+/* Buttons - Clean Solid Styling */
+.btn--style-primary {
+  background-color: #0f172a !important;
+  color: #ffffff !important;
+  border-radius: 8px !important;
+  font-weight: 700 !important;
+}
+
+.btn--style-primary:hover {
+  background-color: #2563eb !important;
+  color: #ffffff !important;
+}
+
+.btn--style-secondary {
+  background-color: #f1f5f9 !important;
+  color: #0f172a !important;
+  border: 1px solid #cbd5e1 !important;
+  border-radius: 8px !important;
+}
+
+.btn--style-secondary:hover {
+  background-color: #e2e8f0 !important;
+}
+
+/* Inputs & Form Fields - Clean Crisp Border */
+input[type="text"], input[type="email"], input[type="password"], input[type="number"], select, textarea {
+  border: 1px solid #cbd5e1 !important;
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+  border-radius: 8px !important;
+}
+
+input:focus, select:focus, textarea:focus {
+  border-color: #2563eb !important;
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.2) !important;
+}
+
+/* Table Clean White Styling - High Contrast Fix */
+table,
+.table,
+.table tbody,
+.table tr,
+.table tr:nth-child(odd),
+.table tr:nth-child(even),
+.row-1, .row-2, .row-3, .row-4, .row-5,
+[class*="table__row"] {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+}
+
+.table tr:nth-child(odd),
+[class*="table__row"]:nth-child(odd) {
+  background-color: #f8fafc !important;
+}
+
+.table tr:nth-child(even),
+[class*="table__row"]:nth-child(even) {
+  background-color: #ffffff !important;
+}
+
+/* Ensure ALL text inside table cells, links, and headings are dark and 100% readable */
+.table td,
+.table td *,
+.table th,
+.table th *,
+.table a,
+.table a *,
+[class*="cell-"],
+[class*="cell-"] * {
+  color: #0f172a !important;
+  background-color: transparent !important;
+}
+
+.table td a {
+  font-weight: 600 !important;
+  color: #0f172a !important;
+}
+
+.table td a:hover {
+  color: #2563eb !important;
+}
+
+/* Fix Filter & Header Action Buttons */
+[class*="list-controls"],
+[class*="search-filter"],
+[class*="pill"] {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+  border-color: #cbd5e1 !important;
+}

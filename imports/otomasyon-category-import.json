@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "otomasyon",
+    "title": "Otomasyon",
+    "description": "PLC, SCADA, BMS, güvenlik kamera, erişim kontrol ve akıllı bina otomasyon sistemlerinin kurulum, programlama ve bakım hizmetleri.",
+    "icon": "elektronik-tesisat",
+    "content": {
+      "root": {
+        "type": "root",
+        "children": [
+          {
+            "type": "paragraph",
+            "format": "start",
+            "indent": 0,
+            "version": 1,
+            "children": [
+              {
+                "mode": "normal",
+                "text": "Endüstriyel ve ticari tesisler için PLC tabanlı kontrol sistemleri, SCADA yazılımları, bina yönetim sistemleri (BMS), güvenlik kamera ve erişim kontrol sistemlerinin komple kurulum, devreye alma ve bakım hizmetlerini sunuyoruz. Siemens, Schneider, Delta ve diğer önde gelen markalar üzerinde uzman kadromuzla çözüm üretiyoruz.",
+                "type": "text",
+                "style": "",
+                "detail": 0,
+                "format": 0,
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "textStyle": "",
+            "textFormat": 0
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "version": 1
+      }
+    },
+    "featured_image": null,
+    "_status": "published"
+  }
+]

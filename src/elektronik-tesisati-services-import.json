@@ -1,0 +1,920 @@
+[
+  {
+    "slug": "kamera-sistemi-bakim-ve-servisi",
+    "featured": false,
+    "title": "Kamera Sistemi Bakım ve Servisi",
+    "icon": "zayif-akim-tesisati",
+    "description": "Kurulu güvenlik kamera sistemlerinin periyodik bakımı, lens temizliği, DVR/NVR kontrolü ve arıza giderimi.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Kamera Sistemi Bakım ve Servisi",
+        "description": "Güvenlik kamera sisteminizin her zaman tam performansla çalışması için düzenli bakım ve hızlı müdahale hizmeti sunuyoruz. Lens temizliği, kayıt sistemi kontrolü, yazılım güncellemesi ve arıza giderimiyle sisteminizi kesintisiz tutuyoruz.",
+        "features": [
+          {
+            "feature": "Kamera lens ve sensör temizliği"
+          },
+          {
+            "feature": "DVR/NVR disk ve kayıt kontrolü"
+          },
+          {
+            "feature": "Yazılım ve firmware güncellemeleri"
+          },
+          {
+            "feature": "Görüntü kalitesi kalibrasyonu"
+          },
+          {
+            "feature": "Kablo ve bağlantı kontrolü"
+          },
+          {
+            "feature": "Yıllık bakım sözleşmesi imkânı"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Güvenlik Kamera Sistemi Bakım ve Servisi | Hızır Teknik",
+      "description": "Güvenlik kamera sistemlerinin periyodik bakımı, lens temizliği, arıza giderimi ve yazılım güncellemesi. Uzman teknik ekiple kesintisiz güvenlik.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "hirsiz-alarm-sistemi-kurulumu",
+    "featured": false,
+    "title": "Hırsız Alarm Sistemi Kurulumu",
+    "icon": "zayif-akim-tesisati",
+    "description": "Kablolu ve kablosuz hırsız alarm sistemlerinin tasarımı, kurulumu, merkeze bağlantısı ve devreye alınması.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Hırsız Alarm Sistemi Kurulumu",
+        "description": "Konut ve işyerleri için hareket sensörü, manyetik kontak ve cam kırılma dedektörüne dayalı hırsız alarm sistemlerini tasarlıyoruz. GSM modemi ve IP bağlantısıyla alarm merkezine bağlantı sağlıyor, sistemi eksiksiz devreye alıyoruz.",
+        "features": [
+          {
+            "feature": "Hareket dedektörü ve manyetik kontak montajı"
+          },
+          {
+            "feature": "Cam kırılma dedektörü"
+          },
+          {
+            "feature": "Alarm paneli ve siren kurulumu"
+          },
+          {
+            "feature": "GSM ve IP merkez bağlantısı"
+          },
+          {
+            "feature": "Mobil uygulama bildirim entegrasyonu"
+          },
+          {
+            "feature": "Periyodik test ve bakım hizmeti"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Hırsız Alarm Sistemi Kurulumu | Hızır Teknik",
+      "description": "Kablolu ve kablosuz hırsız alarm sistemi kurulumu. Hareket sensörü, manyetik kontak ve merkeze bağlantılı alarm çözümleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "video-interkom-ve-diyafon-sistemi-montaji",
+    "featured": false,
+    "title": "Video İnterkom ve Diyafon Sistemi Montajı",
+    "icon": "zayif-akim-tesisati",
+    "description": "Görüntülü kapı zili, apartman diyafon ve video interkom sistemlerinin montajı ve konfigürasyonu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Video İnterkom ve Diyafon Sistemi Montajı",
+        "description": "Rezidans, villa ve apartmanlar için görüntülü interkom ve kapı zili sistemlerini kuruyor, konfigüre ediyoruz. Analog ve IP tabanlı sistemlerde uzman ekibimizle komple kurulum ve devreye alma hizmeti sunuyoruz.",
+        "features": [
+          {
+            "feature": "Görüntülü dış kapı paneli montajı"
+          },
+          {
+            "feature": "İç mekan monitörü ve dokunmatik panel"
+          },
+          {
+            "feature": "IP ve analog sistem desteği"
+          },
+          {
+            "feature": "Elektrikli kilit ve kapı açma entegrasyonu"
+          },
+          {
+            "feature": "Akıllı telefon (SIP) entegrasyonu"
+          },
+          {
+            "feature": "Apartman santral sistemi kurulumu"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Video İnterkom ve Diyafon Sistemi Montajı | Hızır Teknik",
+      "description": "Görüntülü kapı zili, apartman diyafon ve video interkom sistemi montajı. Analog ve IP tabanlı çözümler.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "yangin-alarm-sistemi-kurulumu",
+    "featured": false,
+    "title": "Yangın Alarm Sistemi Kurulumu",
+    "icon": "zayif-akim-tesisati",
+    "description": "Duman dedektörü, ısı sensörü, siren ve alarm panelinden oluşan yangın ihbar sistemlerinin kurulumu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Yangın Alarm Sistemi Kurulumu",
+        "description": "TSE ve EN standardına uygun duman dedektörü, ısı sensörü, el butonları ve yangın alarm panelinden oluşan komple yangın ihbar sistemleri kuruyoruz. Adresli ve konvansiyonel sistem çözümleri sunuyoruz.",
+        "features": [
+          {
+            "feature": "Adresli ve konvansiyonel yangın alarm paneli"
+          },
+          {
+            "feature": "Duman ve ısı dedektörleri"
+          },
+          {
+            "feature": "El butonları ve uyarı sirenleri"
+          },
+          {
+            "feature": "Merkez izleme ve bağlantısı"
+          },
+          {
+            "feature": "TSE ve EN standartlarına uyumluluk"
+          },
+          {
+            "feature": "Yıllık bakım ve test hizmeti"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Yangın Alarm Sistemi Kurulumu | Hızır Teknik",
+      "description": "Duman dedektörü, ısı sensörü ve alarm panelinden oluşan yangın ihbar sistemi kurulumu. TSE ve EN standartlarına uygun.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "duman-ve-gaz-dedektoru-kurulumu",
+    "featured": false,
+    "title": "Duman ve Gaz Dedektörü Kurulumu",
+    "icon": "sensor-montaji",
+    "description": "Ev ve işyerleri için duman, karbonmonoksit ve doğalgaz dedektörü montajı ve devreye alma.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Duman ve Gaz Dedektörü Kurulumu",
+        "description": "Yaşam ve çalışma alanlarınızı duman, karbonmonoksit (CO) ve doğalgaz sızıntısına karşı korumak için dedektörleri en kritik noktalara konumlandırarak montajını yapıyoruz. Alarm sistemiyle entegrasyon sağlanmaktadır.",
+        "features": [
+          {
+            "feature": "Duman dedektörü montajı ve devreye alma"
+          },
+          {
+            "feature": "Karbonmonoksit (CO) dedektörü"
+          },
+          {
+            "feature": "Doğalgaz sızıntı sensörü montajı"
+          },
+          {
+            "feature": "Alarm paneline entegrasyon"
+          },
+          {
+            "feature": "GSM modemi ile acil uyarı"
+          },
+          {
+            "feature": "Sigorta uyumlu sertifikalı ürünler"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Duman ve Gaz Dedektörü Kurulumu | Hızır Teknik",
+      "description": "Ev ve işyerleri için duman, karbonmonoksit ve doğalgaz dedektörü montajı. Güvenli yaşam alanı için erken uyarı sistemleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "akilli-aydinlatma-kontrol-sistemi",
+    "featured": false,
+    "title": "Akıllı Aydınlatma Kontrol Sistemi",
+    "icon": "led-aydinlatma-sistemleri",
+    "description": "Sahne programlama, uzaktan kontrol ve enerji tasarrufu sağlayan akıllı aydınlatma kontrol sistemi kurulumu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Akıllı Aydınlatma Kontrol Sistemi",
+        "description": "DALI, KNX veya Wi-Fi tabanlı akıllı aydınlatma kontrol sistemleri ile farklı mekânlar için ışık senaryoları oluşturuyor, enerji verimliliğini artırıyor ve uzaktan kontrol imkânı sunuyoruz.",
+        "features": [
+          {
+            "feature": "DALI ve KNX protokol desteği"
+          },
+          {
+            "feature": "Işık senaryosu ve dim kontrol"
+          },
+          {
+            "feature": "Hareket sensörü entegrasyonu"
+          },
+          {
+            "feature": "Doğal ışık dengeleme (lux sensörü)"
+          },
+          {
+            "feature": "Mobil uygulama ve uzak erişim"
+          },
+          {
+            "feature": "Enerji tüketimi analizi ve raporlama"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Akıllı Aydınlatma Kontrol Sistemi | Hızır Teknik",
+      "description": "DALI ve KNX tabanlı akıllı aydınlatma kontrol sistemi kurulumu. Işık senaryosu, uzaktan kontrol ve enerji tasarrufu.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "elektrikli-panjur-ve-perde-sistemi-montaji",
+    "featured": false,
+    "title": "Elektrikli Panjur ve Perde Sistemi Montajı",
+    "icon": "zayif-akim-tesisati",
+    "description": "Motorlu panjur, stor perde ve akıllı perde sistemlerinin montajı ve otomasyon entegrasyonu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Elektrikli Panjur ve Perde Sistemi Montajı",
+        "description": "Konut ve ofislerde motorlu panjur, stor perde ve akıllı perde sistemlerini kuruyor, akıllı ev sistemiyle entegre ediyoruz. Zamanlayıcı ve güneş sensörü entegrasyonu da sağlanmaktadır.",
+        "features": [
+          {
+            "feature": "Motorlu panjur ve stor perde montajı"
+          },
+          {
+            "feature": "Uzaktan kumanda ve akıllı ev entegrasyonu"
+          },
+          {
+            "feature": "Zamanlayıcı ve senaryo programlama"
+          },
+          {
+            "feature": "Güneş (ışık) sensörü entegrasyonu"
+          },
+          {
+            "feature": "Çok perde/panjur merkezi kontrolü"
+          },
+          {
+            "feature": "Ses yalıtımı ve enerji tasarrufu"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Elektrikli Panjur ve Perde Sistemi Montajı | Hızır Teknik",
+      "description": "Motorlu panjur ve stor perde sistemi montajı ve akıllı ev entegrasyonu. Uzaktan kontrol ve zamanlayıcı özelliğiyle konfor.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "akilli-kilit-sistemi-montaji",
+    "featured": false,
+    "title": "Akıllı Kilit Sistemi Montajı",
+    "icon": "zayif-akim-tesisati",
+    "description": "Dijital şifreli, kartlı ve parmak izi okuyuculu akıllı kapı kilidi sistemlerinin montajı.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Akıllı Kilit Sistemi Montajı",
+        "description": "Konut, ofis ve site girişleri için dijital şifre, kart okuyucu, parmak izi ve akıllı telefon tabanlı akıllı kapı kilidi sistemlerini montajlıyor ve programlıyoruz.",
+        "features": [
+          {
+            "feature": "Dijital şifreli kilit montajı ve programlama"
+          },
+          {
+            "feature": "Parmak izi ve kart okuyucu entegrasyonu"
+          },
+          {
+            "feature": "Bluetooth ve Wi-Fi akıllı kilit"
+          },
+          {
+            "feature": "Uzaktan kilit/açma kontrolü"
+          },
+          {
+            "feature": "Geçici PIN ve misafir erişimi"
+          },
+          {
+            "feature": "Giriş log kaydı ve yetkilendirme"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Akıllı Kilit Sistemi Montajı | Hızır Teknik",
+      "description": "Dijital şifreli, kartlı ve parmak izi okuyuculu akıllı kapı kilidi montajı. Uzaktan kontrol ve güvenli giriş.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "tv-ve-uydu-sistemi-kurulumu",
+    "featured": false,
+    "title": "TV ve Uydu Sistemi Kurulumu",
+    "icon": "zayif-akim-tesisati",
+    "description": "Uydu çanak anteni, alıcı, dağıtım santrali ve TV bağlantı tesisatının kurulumu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "TV ve Uydu Sistemi Kurulumu",
+        "description": "Ev ve işyerleri için uydu çanak anteni, dijital alıcı ve TV dağıtım sistemlerinin kurulumunu gerçekleştiriyoruz. Tek uydudan çok oda izleme ve IPTV çözümleri sunuyoruz.",
+        "features": [
+          {
+            "feature": "Uydu çanak anten montajı ve sinyal ayarı"
+          },
+          {
+            "feature": "Dijital uydu alıcı kurulumu"
+          },
+          {
+            "feature": "Çok odalı TV dağıtımı"
+          },
+          {
+            "feature": "HDMI ve koaksiyel kablo tesisatı"
+          },
+          {
+            "feature": "TürkSat ve Eutelsat uyum ayarları"
+          },
+          {
+            "feature": "Yıllık sinyal kontrolü ve bakım"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "TV ve Uydu Sistemi Kurulumu | Hızır Teknik",
+      "description": "Uydu çanak anten, alıcı ve TV dağıtım sistemi kurulumu. Çok oda uydu izleme ve IPTV çözümleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "merkezi-anten-sistemi-kurulumu",
+    "featured": false,
+    "title": "Merkezi Anten Sistemi (MATV) Kurulumu",
+    "icon": "zayif-akim-tesisati",
+    "description": "Apartman ve iş merkezleri için merkezi anten (MATV/CATV) sistemi tasarım ve kurulumu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Merkezi Anten Sistemi (MATV) Kurulumu",
+        "description": "Birden fazla daire veya ofisi olan yapılar için tek çanak antenden tüm bağlantı noktalarına kaliteli TV sinyali dağıtan MATV (Master Antenna Television) sistemlerini tasarlıyor ve kuruyoruz.",
+        "features": [
+          {
+            "feature": "Çanak anten ve multiswitch sistemi"
+          },
+          {
+            "feature": "Sinyal amplifikatörü ve splitter kurulumu"
+          },
+          {
+            "feature": "Koaksiyel kablo tesisat döşemesi"
+          },
+          {
+            "feature": "Her daire/ofis için TV çıkış noktaları"
+          },
+          {
+            "feature": "Sinyal kalitesi ölçümü ve ayarı"
+          },
+          {
+            "feature": "Mevcut sistem genişletme ve iyileştirme"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Merkezi Anten Sistemi (MATV) Kurulumu | Hızır Teknik",
+      "description": "Apartman ve iş merkezi için MATV merkezi anten sistemi tasarım ve kurulumu. Tüm dairelere kaliteli TV sinyali.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "yapisal-kablolama-ve-ag-altyapisi",
+    "featured": false,
+    "title": "Yapısal Kablolama ve Ağ Altyapısı",
+    "icon": "zayif-akim-tesisati",
+    "description": "CAT6/CAT6A ve fiber optik kablolama ile bina içi veri ağı altyapısının kurulumu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Yapısal Kablolama ve Ağ Altyapısı",
+        "description": "Ofis, rezidans ve ticari binalar için TIA/EIA standartlarına uygun yapısal kablolama altyapısı kuruyoruz. CAT6/CAT6A bakırlı kablo ve fiber optik seçenekleriyle yüksek hızlı ağ altyapınızı oluşturuyoruz.",
+        "features": [
+          {
+            "feature": "CAT6 ve CAT6A UTP/STP kablolama"
+          },
+          {
+            "feature": "Fiber optik kablo döşemesi"
+          },
+          {
+            "feature": "Patch panel ve rack dolap montajı"
+          },
+          {
+            "feature": "Network switch ve ağ cihazları kurulumu"
+          },
+          {
+            "feature": "Kablo test ve sertifikasyon (Fluke tester)"
+          },
+          {
+            "feature": "TIA/EIA 568 standartlarına uyumluluk"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Yapısal Kablolama ve Ağ Altyapısı Kurulumu | Hızır Teknik",
+      "description": "CAT6, CAT6A ve fiber optik yapısal kablolama ile bina içi ağ altyapısı kurulumu. TIA/EIA standartlarına uygun.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "telefon-ve-internet-tesisati",
+    "featured": false,
+    "title": "Telefon ve İnternet Tesisatı",
+    "icon": "zayif-akim-tesisati",
+    "description": "Ev, ofis ve işyerleri için telefon santrali, internet dağıtım ve yapısal kablolama tesisatı.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Telefon ve İnternet Tesisatı",
+        "description": "Ofis ve işyerleri için IP PBX ve geleneksel telefon santrallerinin kurulumu, dahili hat tesisatı ve internet dağıtım altyapısını eksiksiz yapıyoruz. VoIP ve bulut santral çözümleri de sunuyoruz.",
+        "features": [
+          {
+            "feature": "IP PBX ve bulut santral kurulumu"
+          },
+          {
+            "feature": "Dahili telefon hattı tesisatı"
+          },
+          {
+            "feature": "VoIP telefon ve handset kurulumu"
+          },
+          {
+            "feature": "İnternet ve veri noktası döşemesi"
+          },
+          {
+            "feature": "Ofis genişbant ağ yapılandırması"
+          },
+          {
+            "feature": "Fiber ve ADSL bağlantı entegrasyonu"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Telefon ve İnternet Tesisatı | Hızır Teknik",
+      "description": "Ev ve ofis için telefon santrali, internet dağıtım ve yapısal kablolama tesisatı. VoIP ve bulut santral çözümleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "ses-sistemi-kurulumu",
+    "featured": false,
+    "title": "Ses Sistemi Kurulumu",
+    "icon": "zayif-akim-tesisati",
+    "description": "Ev sinema, arka plan müzik ve anons sistemlerinin kurulumu ve konfigürasyonu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Ses Sistemi Kurulumu",
+        "description": "Konut, kafe, otel ve ofisler için müzik yayın (background music), ev sinema ve ses dağıtım sistemleri kuruyoruz. Gömülü hoparlör, amplifikatör ve dijital kaynak entegrasyonuyla mükemmel ses deneyimi sunuyoruz.",
+        "features": [
+          {
+            "feature": "Gömülü (in-ceiling/in-wall) hoparlör montajı"
+          },
+          {
+            "feature": "AV amplifikatör ve kaynak entegrasyonu"
+          },
+          {
+            "feature": "Çok bölgeli müzik yayını"
+          },
+          {
+            "feature": "Subwoofer ve surround sound sistemleri"
+          },
+          {
+            "feature": "Tablet ve uygulama ile kontrol"
+          },
+          {
+            "feature": "Akustik ölçüm ve optimizasyon"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Ses Sistemi Kurulumu | Hızır Teknik",
+      "description": "Ev sinema, arka plan müzik ve anons sistemi kurulumu. Gömülü hoparlör ve AV amplifikatör entegrasyonu.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "goruntu-ve-ses-dagitim-sistemi",
+    "featured": false,
+    "title": "Görüntü ve Ses Dağıtım Sistemi",
+    "icon": "zayif-akim-tesisati",
+    "description": "Çok odalı TV, müzik ve multimedya dağıtım sistemlerinin kurulumu ve entegrasyonu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Görüntü ve Ses Dağıtım Sistemi",
+        "description": "Evinizde veya işyerinizde birden fazla ekrana aynı anda veya farklı içerik gönderebilmek için HDMI matris, IPTV ve multimedya dağıtım sistemleri kuruyoruz.",
+        "features": [
+          {
+            "feature": "HDMI matris ve sinyal uzatıcı kurulumu"
+          },
+          {
+            "feature": "IPTV ve medya sunucu kurulumu"
+          },
+          {
+            "feature": "Çok ekranlı video duvar çözümleri"
+          },
+          {
+            "feature": "4K HDR dağıtım desteği"
+          },
+          {
+            "feature": "Uzaktan kontrol (IR/RF) entegrasyonu"
+          },
+          {
+            "feature": "Kablo ve ekipman gizleme çözümleri"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Görüntü ve Ses Dağıtım Sistemi | Hızır Teknik",
+      "description": "Çok odalı TV, müzik ve multimedya dağıtım sistemi kurulumu. HDMI matris, IPTV ve 4K HDR dağıtım çözümleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "ups-sistemi-kurulumu",
+    "featured": false,
+    "title": "UPS Sistemi Kurulumu",
+    "icon": "jenerator-baglantisi",
+    "description": "Kesintisiz güç kaynağı (UPS) sistemlerinin kurulumu, bakımı ve akü değişimi.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "UPS Sistemi Kurulumu ve Bakımı",
+        "description": "Bilgisayar, sunucu, güvenlik kamerası ve hassas elektronik ekipmanlarınızı şebeke kesintisi ve gerilim dalgalanmalarına karşı korumak için UPS sistemleri kuruyoruz. Online, line-interactive ve offline UPS çözümleri sunuyoruz.",
+        "features": [
+          {
+            "feature": "Online ve line-interactive UPS kurulumu"
+          },
+          {
+            "feature": "APC, Eaton, Powerware marka desteği"
+          },
+          {
+            "feature": "Akü kapasitesi hesaplama ve seçimi"
+          },
+          {
+            "feature": "Akü bakımı ve değişimi"
+          },
+          {
+            "feature": "UPS izleme yazılımı kurulumu"
+          },
+          {
+            "feature": "Rack-mount ve standalone UPS çözümleri"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "UPS Sistemi Kurulumu ve Bakımı | Hızır Teknik",
+      "description": "Kesintisiz güç kaynağı (UPS) kurulumu, akü bakımı ve değişimi. Şebeke kesintisine karşı ekipman koruma.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "cagri-ve-anons-sistemi-kurulumu",
+    "featured": false,
+    "title": "Çağrı ve Anons Sistemi Kurulumu",
+    "icon": "zayif-akim-tesisati",
+    "description": "Ofis, okul ve ticari alanlar için sesli anons, çağrı ve telsiz sistemlerinin kurulumu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Çağrı ve Anons Sistemi Kurulumu",
+        "description": "Okul, fabrika, otel ve ofis yapıları için IP tabanlı veya geleneksel sesli anons, çağrı (paging) ve telsiz sistemleri kuruyoruz. Acil anons, bölge yayını ve entegre çözümler sunuyoruz.",
+        "features": [
+          {
+            "feature": "IP ve geleneksel anons sistemi kurulumu"
+          },
+          {
+            "feature": "Bölge bazlı ses yayını"
+          },
+          {
+            "feature": "Acil anons ve tahliye sistemi"
+          },
+          {
+            "feature": "Mikrofon ve kontrol ünitesi montajı"
+          },
+          {
+            "feature": "Telefon santral ile anons entegrasyonu"
+          },
+          {
+            "feature": "Horn ve gömülü hoparlör seçenekleri"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Çağrı ve Anons Sistemi Kurulumu | Hızır Teknik",
+      "description": "Ofis, okul ve ticari alanlar için sesli anons ve çağrı sistemi kurulumu. Acil anons ve bölge yayın çözümleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  },
+  {
+    "slug": "elektronik-sistem-ariza-tespiti-ve-onarimi",
+    "featured": false,
+    "title": "Elektronik Sistem Arıza Tespiti ve Onarımı",
+    "icon": "elektrik-ariza-tespiti",
+    "description": "Kamera, alarm, interkom ve akıllı ev sistemlerindeki arızaların tespiti ve giderilmesi.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Elektronik Sistem Arıza Tespiti ve Onarımı",
+        "description": "Güvenlik kamera, hırsız alarm, yangın alarm, interkom ve akıllı ev sistemlerinizdeki arızaları hızla tespit ediyor ve gideriyoruz. Acil müdahale hizmetimizle sisteminizi en kısa sürede yeniden çalışır hale getiriyoruz.",
+        "features": [
+          {
+            "feature": "Güvenlik kamera arıza tespiti ve onarımı"
+          },
+          {
+            "feature": "Alarm sistemi ve panel servisi"
+          },
+          {
+            "feature": "İnterkom ve diyafon tamiri"
+          },
+          {
+            "feature": "Akıllı ev sistemi sorun giderimi"
+          },
+          {
+            "feature": "Kablo ve bağlantı arızaları"
+          },
+          {
+            "feature": "Acil müdahale hizmeti"
+          }
+        ],
+        "images": [
+          {
+            "image": null
+          },
+          {
+            "image": null
+          },
+          {
+            "image": null
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Elektronik Sistem Arıza Tespiti ve Onarımı | Hızır Teknik",
+      "description": "Kamera, alarm, interkom ve akıllı ev sistemleri arıza tespiti ve onarımı. Hızlı müdahale ile sisteminizi yeniden çalışır hale getiriyoruz.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 2,
+    "_status": "published"
+  }
+]

@@ -1,0 +1,882 @@
+[
+  {
+    "id": 120,
+    "slug": "cati-tamiri-ve-onarimi",
+    "featured": false,
+    "title": "Çatı Tamiri ve Onarımı",
+    "description": "Kiremit kırığı, çatı sızıntısı ve yapısal hasar gibi çatı sorunlarının tespiti ve onarımı.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Çatı Tamiri ve Onarımı",
+        "description": "Kırık kiremit, çatlak dere, hasarlı mahya ve su sızıntısı gibi çatı sorunlarını yerinde tespit ederek profesyonel onarım yapıyoruz. Küçük tamiratlardan kapsamlı onarımlara kadar tüm çatı müdahalelerinde güvenilir çözüm sunuyoruz.",
+        "features": [
+          { "feature": "Kiremit kırığı ve yerinden çıkması tamiri" },
+          { "feature": "Çatı deresi ve mahya tamiri" },
+          { "feature": "Su sızıntısı tespiti ve onarımı" },
+          { "feature": "Çatı tahtası ve altlık tamiri" },
+          { "feature": "Kurşun ve bitüm derz tamiri" },
+          { "feature": "Fotoğraflı hasar raporu ve fiyatlandırma" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Çatı Tamiri ve Onarımı | Hızır Teknik",
+      "description": "Kiremit kırığı, çatı sızıntısı ve yapısal hasar tamiri. Profesyonel çatı onarım ekibiyle garantili hizmet.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 121,
+    "slug": "cati-aktarma-ve-yenileme",
+    "featured": false,
+    "title": "Çatı Aktarma ve Yenileme",
+    "description": "Eski ve yıpranmış çatıların tamamen sökülüp yeni malzeme ile yeniden döşenmesi.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Çatı Aktarma ve Yenileme",
+        "description": "Kullanım ömrünü tamamlamış ya da ciddi hasar görmüş çatıların mevcut kaplaması tamamen sökülür, altlık ve taşıyıcı sistem kontrol edilip gerekirse yenilenir, ardından yeni çatı kaplaması döşenir.",
+        "features": [
+          { "feature": "Mevcut çatı kaplaması sökümü" },
+          { "feature": "Altlık, lattabua ve taşıyıcı sistem kontrolü" },
+          { "feature": "Yeni kiremit veya kaplama döşemesi" },
+          { "feature": "Mahya, saçak ve dere montajı" },
+          { "feature": "Su ve ısı yalıtım örtüsü uygulaması" },
+          { "feature": "Nakliye ve atık bertaraf dahil" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Çatı Aktarma ve Yenileme | Hızır Teknik",
+      "description": "Eski çatının tamamen sökülüp yeni malzeme ile yenilenmesi. Profesyonel çatı aktarma ve komple yenileme hizmeti.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 122,
+    "slug": "kiremit-cati-kaplama",
+    "featured": false,
+    "title": "Kiremit Çatı Kaplama",
+    "description": "Beton ve toprak kiremit kullanılarak çatı kaplama, mahya ve oluk montajı.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Kiremit Çatı Kaplama",
+        "description": "Geleneksel estetik ve modern dayanıklılığı bir arada sunan beton ve toprak kiremit çatı kaplama uygulamalarını uzman ekibimizle gerçekleştiriyoruz. Mahya, saçak ve oluk sistemleri de montajımız kapsamındadır.",
+        "features": [
+          { "feature": "Beton ve toprak kiremit seçenekleri" },
+          { "feature": "Su ve ısı yalıtım örtüsü uygulaması" },
+          { "feature": "Mahya kiremidi ve köşe montajı" },
+          { "feature": "Yağmur oluğu ve dere sistemi" },
+          { "feature": "Rüzgar ve dolu dayanımlı montaj" },
+          { "feature": "TSE standartlarına uygun malzeme" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Kiremit Çatı Kaplama | Hızır Teknik",
+      "description": "Beton ve toprak kiremit ile çatı kaplama, mahya ve oluk montajı. Ankara'da profesyonel kiremit çatı uygulamaları.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 123,
+    "slug": "membran-cati-kaplama",
+    "featured": false,
+    "title": "Membran Çatı Kaplama",
+    "description": "Teras ve düz çatılarda bitümlü membran ve EPDM kaplama uygulaması.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Membran Çatı Kaplama",
+        "description": "Düz ve az eğimli çatılarda uzun ömürlü su yalıtımı sağlamak için alevli bitümlü membran ve EPDM sentetik kauçuk kaplama sistemleri uyguluyoruz. Detay noktaları ve bağlantılar titizlikle işlenmektedir.",
+        "features": [
+          { "feature": "Bitümlü torch-on membran uygulaması" },
+          { "feature": "EPDM sentetik kauçuk kaplama" },
+          { "feature": "Primer ve yapıştırıcı uygulama" },
+          { "feature": "Detay ve kenar işleme (bağlantı, parapet)" },
+          { "feature": "Drenaj ve su tahliye sistemleri" },
+          { "feature": "Garanti belgeli uygulama" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Membran Çatı Kaplama | Hızır Teknik",
+      "description": "Teras ve düz çatılarda bitümlü membran ve EPDM kaplama uygulaması. Su sızıntısına karşı uzun ömürlü çözüm.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 124,
+    "slug": "metal-cati-kaplama",
+    "featured": false,
+    "title": "Metal Çatı Kaplama",
+    "description": "Trapez sac, sandviç panel ve çelik çatı kaplama sistemlerinin montajı.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Metal Çatı Kaplama",
+        "description": "Fabrika, depo, tarım yapısı ve ticari binalar için galvanizli trapez sac, boyalı çelik profil ve sandviç panel çatı sistemlerini temin ve montaj hizmeti sunuyoruz.",
+        "features": [
+          { "feature": "Galvanizli ve boyalı trapez sac" },
+          { "feature": "Sandviç panel çatı kaplama" },
+          { "feature": "Çelik taşıyıcı ve kaplama montajı" },
+          { "feature": "Dere, mahya ve saçak detayları" },
+          { "feature": "Yağmur oluğu ve drenaj sistemi" },
+          { "feature": "Isı ve ses yalıtımlı panel seçeneği" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Metal Çatı Kaplama | Hızır Teknik",
+      "description": "Trapez sac, sandviç panel ve çelik çatı kaplama montajı. Fabrika, depo ve ticari yapılar için metal çatı çözümleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 125,
+    "slug": "cati-su-yalitimi",
+    "featured": false,
+    "title": "Çatı Su Yalıtımı",
+    "description": "Çatı, teras ve dere noktalarında su sızıntısını önlemeye yönelik yalıtım uygulamaları.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Çatı Su Yalıtımı",
+        "description": "Çatı üzerindeki tüm kritik noktalarda — dere, mahya, baca dibi, parapet ve oluk bağlantıları — kapsamlı su yalıtım uygulaması yapıyoruz. Poliüretan, akrilik ve bitümlü yalıtım sistemleri uygulanmaktadır.",
+        "features": [
+          { "feature": "Poliüretan ve akrilik sıvı yalıtım" },
+          { "feature": "Bitümlü membran su yalıtımı" },
+          { "feature": "Kritik detay noktaları (baca dibi, parapet)" },
+          { "feature": "Drenaj sistemi tasarımı ve montajı" },
+          { "feature": "Mevcut hasarlı yalıtım sökümü ve yenileme" },
+          { "feature": "Garanti belgeli uygulama" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Çatı Su Yalıtımı | Hızır Teknik",
+      "description": "Çatı ve teras su yalıtımı uygulaması. Bitümlü membran, poliüretan ve akrilik yalıtım sistemleri ile su sızıntısına son.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 126,
+    "slug": "cati-isi-yalitimi",
+    "featured": false,
+    "title": "Çatı Isı Yalıtımı",
+    "description": "Çatı arası ve düz çatılarda enerji tasarrufu sağlayan ısı yalıtım malzemesi uygulaması.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Çatı Isı Yalıtımı",
+        "description": "Çatı üzerinden ısı kaybını minimize etmek için TS 825 enerji performans standartlarına uygun ısı yalıtım sistemleri uyguluyoruz. Taşyünü, cam yünü ve EPS/XPS levha seçenekleri mevcuttur.",
+        "features": [
+          { "feature": "Taşyünü ve cam yünü yalıtım uygulaması" },
+          { "feature": "EPS ve XPS levha sistemi" },
+          { "feature": "Çatı arası döşeme yalıtımı" },
+          { "feature": "Düz çatı üzeri yalıtım sistemi" },
+          { "feature": "TS 825 enerji performans uyumluluğu" },
+          { "feature": "Buhar kesici ve su buharı geçiş katı" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Çatı Isı Yalıtımı | Hızır Teknik",
+      "description": "Çatı arası ve düz çatılarda ısı yalıtımı uygulaması. Enerji tasarrufu ve TS 825 uyumlu yalıtım sistemleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 127,
+    "slug": "oluk-ve-dere-temizligi-ve-tamiri",
+    "featured": false,
+    "title": "Oluk ve Dere Temizliği ve Tamiri",
+    "description": "Yağmur oluğu ve su derelerinin temizlenmesi, tıkanıklık giderimi ve hasar tamiri.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Oluk ve Dere Temizliği ve Tamiri",
+        "description": "Yağmur suyu oluklarında biriken yaprak, toprak ve moloz birikintileri su taşmasına ve hasar görmesine neden olur. Periyodik temizlik, tıkanıklık giderimi ve oluk-dere tamiri ile su tahliyesini güvence altına alıyoruz.",
+        "features": [
+          { "feature": "Yağmur oluğu temizliği ve yıkama" },
+          { "feature": "Dere ve inip borusu tıkanıklık açma" },
+          { "feature": "Çatlak ve delik tamiri" },
+          { "feature": "Plastik ve çinko oluk montajı" },
+          { "feature": "Drenaj bağlantı kontrolü" },
+          { "feature": "Periyodik bakım sözleşmesi imkânı" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Oluk ve Dere Temizliği ve Tamiri | Hızır Teknik",
+      "description": "Yağmur oluğu ve dere temizliği, tıkanıklık giderimi ve hasar tamiri. Çatı su tahliyesinde profesyonel hizmet.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 128,
+    "slug": "teras-izolasyonu",
+    "featured": false,
+    "title": "Teras İzolasyonu",
+    "description": "Açık teras ve çatı katlarında su ve ısı yalıtımı uygulaması.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Teras İzolasyonu",
+        "description": "Açık ve kapalı teraslarda, üzerinde yürünebilen ve araç trafiğine açık çatı katlarında kapsamlı su ve ısı yalıtımı uyguluyoruz. Koruyucu kaplama ve drenaj sistemiyle uzun ömürlü çözüm sunuyoruz.",
+        "features": [
+          { "feature": "Sıvı uygulanan su yalıtım sistemleri" },
+          { "feature": "Bitümlü membran uygulaması" },
+          { "feature": "Isı yalıtım levhası" },
+          { "feature": "Drenaj tabakası ve filtre geotekstil" },
+          { "feature": "Koruyucu beton şap veya kaplama" },
+          { "feature": "Üzerinde yürünebilir sistem tasarımı" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Teras İzolasyonu | Hızır Teknik",
+      "description": "Açık teras ve çatı katı su ve ısı yalıtımı uygulaması. Drenaj sistemi ve koruyucu kaplama dahil.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 129,
+    "slug": "cati-arasi-yalitimi",
+    "featured": false,
+    "title": "Çatı Arası Yalıtımı",
+    "description": "Çatı arası boşluğuna ısı ve ses yalıtım malzemesi uygulanarak enerji verimliliğinin artırılması.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Çatı Arası Yalıtımı",
+        "description": "Çatı arasından kaynaklanan ısı ve ses geçişini azaltmak için zemin kaplaması, eğimli çatı yüzeyi ve çatı arası duvarlarına uygun yalıtım malzemeleri uyguluyoruz. Enerji tasarrufu ve konfor artışı sağlanmaktadır.",
+        "features": [
+          { "feature": "Çatı arası zemin ve eğimli yüzey yalıtımı" },
+          { "feature": "Püskürtme ve levha yalıtım seçenekleri" },
+          { "feature": "Cam yünü rulo ve levha uygulaması" },
+          { "feature": "Buhar kesici folyo montajı" },
+          { "feature": "Havalandırma boşluğu tasarımı" },
+          { "feature": "Enerji performans belgesi desteği" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Çatı Arası Yalıtımı | Hızır Teknik",
+      "description": "Çatı arası ısı ve ses yalıtımı uygulaması. Enerji verimliliğini artırın, ısıtma-soğutma maliyetlerini düşürün.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 130,
+    "slug": "dis-cephe-mantolama",
+    "featured": false,
+    "title": "Dış Cephe Mantolama",
+    "description": "Binanın dış duvarlarına ısı yalıtım levhası yapıştırılarak mantolama ve son kat sıva uygulaması.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Dış Cephe Mantolama",
+        "description": "Binanızın enerji verimliliğini artırmak ve ısıtma-soğutma maliyetlerini düşürmek için EPS (strafor) veya taşyünü levhalar yapıştırılarak cephe mantolama uygulaması yapıyoruz. TS EN 13499-13500 standartlarına uygun işçilik ve malzeme garantisi sunuyoruz.",
+        "features": [
+          { "feature": "EPS ve taşyünü levha seçenekleri" },
+          { "feature": "Astar ve yapıştırıcı uygulama" },
+          { "feature": "Sıva ve dokulu son kat kaplama" },
+          { "feature": "Köşe profili ve dübel montajı" },
+          { "feature": "Yangın dayanımlı taşyünü şerit" },
+          { "feature": "TS EN 13499-13500 uyumluluğu" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Dış Cephe Mantolama | Hızır Teknik",
+      "description": "EPS ve taşyünü levha ile dış cephe mantolama uygulaması. Enerji tasarrufu, ısı yalıtımı ve garantili işçilik.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 131,
+    "slug": "dis-cephe-boya-ve-badana",
+    "featured": false,
+    "title": "Dış Cephe Boya ve Badana",
+    "description": "Dış cephe yüzeylerinin hazırlanması, astar ve dış cephe boyası uygulaması.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Dış Cephe Boya ve Badana",
+        "description": "Bina dış cephesinde çatlak ve dökülme tamiratından sonra, dayanıklı ve UV dirençli dış cephe boyaları uyguluyoruz. Boya öncesi yüzey hazırlık, astar ve son kat uygulama eksiksiz yapılmaktadır.",
+        "features": [
+          { "feature": "Çatlak ve patlak sıva tamiri" },
+          { "feature": "Astar ve yalıtkan sıva uygulaması" },
+          { "feature": "Silikonlu ve akrilik dış cephe boyası" },
+          { "feature": "UV ve nem dirençli boya seçenekleri" },
+          { "feature": "Renk danışmanlığı ve numune uygulaması" },
+          { "feature": "İskele kurulum ve söküm dahil" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Dış Cephe Boya ve Badana | Hızır Teknik",
+      "description": "Dış cephe boya ve badana uygulaması. UV ve nem dirençli boyalar, yüzey hazırlığı ve garantili işçilik.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 132,
+    "slug": "cephe-kaplama-sistemleri",
+    "featured": false,
+    "title": "Cephe Kaplama Sistemleri",
+    "description": "Fibercement, kompozit panel ve taş görünümlü cephe kaplama sistemlerinin montajı.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Cephe Kaplama Sistemleri",
+        "description": "Modern bina cephelerine estetik ve dayanıklı görünüm kazandırmak için fibercement, alüminyum kompozit panel (AKP), taş görünümlü ve seramik cephe kaplama sistemleri uyguluyoruz.",
+        "features": [
+          { "feature": "Fibercement ve alüminyum kompozit panel" },
+          { "feature": "Doğal ve yapay taş cephe kaplaması" },
+          { "feature": "Seramik ve porselen cephe kaplaması" },
+          { "feature": "Alüminyum taşıyıcı sistem ve alt yapı" },
+          { "feature": "Yatay ve dikey kaplama tasarımları" },
+          { "feature": "Yangın dayanım sınıfı uyumlu malzeme" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Cephe Kaplama Sistemleri | Hızır Teknik",
+      "description": "Fibercement, kompozit panel ve taş görünümlü cephe kaplama sistemi montajı. Modern ve dayanıklı bina cephe çözümleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 133,
+    "slug": "sove-ve-dekoratif-cephe-uygulamalari",
+    "featured": false,
+    "title": "Söve ve Dekoratif Cephe Uygulamaları",
+    "description": "Pencere söveleri, kat silmeleri ve dekoratif cephe profil uygulamaları.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Söve ve Dekoratif Cephe Uygulamaları",
+        "description": "Binanızın mimariye özgü karakterini vurgulamak için EPS, XPS veya poliüretan bazlı pencere sövesi, köşe profili, kat silmesi ve dekoratif cephe elemanları uyguluyoruz.",
+        "features": [
+          { "feature": "EPS ve poliüretan söve montajı" },
+          { "feature": "Kat silmesi ve saçak profili" },
+          { "feature": "Köşe ve pilaster uygulamaları" },
+          { "feature": "Pencere üstü ve altı söve tasarımı" },
+          { "feature": "Özel şekil ve boyut üretimi" },
+          { "feature": "Mantolama ile entegre uygulama" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Söve ve Dekoratif Cephe Uygulamaları | Hızır Teknik",
+      "description": "Pencere sövesi, kat silmesi ve dekoratif cephe profil uygulamaları. EPS ve poliüretan dekoratif cephe çözümleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 134,
+    "slug": "dis-cephe-su-yalitimi",
+    "featured": false,
+    "title": "Dış Cephe Su Yalıtımı",
+    "description": "Dış duvarlarda rutubet ve su sızıntısını önleyen yalıtım ve emprenye uygulamaları.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Dış Cephe Su Yalıtımı",
+        "description": "Dış duvarlarda nemlenmeden kaynaklanan sıva dökülmesi, küf oluşumu ve iç mekâna su sızmasını önlemek için yüzey emprenye, sıvı yalıtım ve su itici kaplama sistemleri uyguluyoruz.",
+        "features": [
+          { "feature": "Kristalize su yalıtım uygulaması" },
+          { "feature": "Silikonlu emprenye ve su itmeler" },
+          { "feature": "Sıvı uygulanan su yalıtım sistemleri" },
+          { "feature": "Kapiller su sızıntısı önleme" },
+          { "feature": "Yüzey temizliği ve hazırlık" },
+          { "feature": "Donmaya ve UV'ye dayanıklı sistemler" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Dış Cephe Su Yalıtımı | Hızır Teknik",
+      "description": "Dış duvar su yalıtımı ve rutubet önleme uygulaması. Emprenye, sıvı yalıtım ve su itici kaplama sistemleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 135,
+    "slug": "sandvic-panel-kaplama",
+    "featured": false,
+    "title": "Sandviç Panel Kaplama",
+    "description": "Sanayi, depo ve ticari yapılar için sandviç panel çatı ve cephe kaplama montajı.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Sandviç Panel Kaplama",
+        "description": "Fabrika, depo ve soğuk hava deposu gibi sanayi yapılarında ısı yalıtımlı sandviç panel çatı ve cephe kaplama sistemlerini temin ve monte ediyoruz. Taşıyıcı sistem tasarımı ve montaj hizmeti de sunulmaktadır.",
+        "features": [
+          { "feature": "PUR ve PIR köpüklü sandviç panel" },
+          { "feature": "Çatı ve cephe panel seçenekleri" },
+          { "feature": "Taşıyıcı çelik sistem tasarımı" },
+          { "feature": "Kapı, pencere ve mahya detayları" },
+          { "feature": "Sızdırmazlık ve bant uygulaması" },
+          { "feature": "Soğuk hava deposu uyumlu panel seçenekleri" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Sandviç Panel Kaplama | Hızır Teknik",
+      "description": "Sanayi ve ticari yapılar için sandviç panel çatı ve cephe kaplama montajı. PUR ve PIR panel seçenekleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 136,
+    "slug": "baca-ve-duvar-dibi-izolasyonu",
+    "featured": false,
+    "title": "Baca ve Duvar Dibi İzolasyonu",
+    "description": "Çatı üzerindeki baca dipleri ve duvar birleşim noktalarının su sızıntısına karşı yalıtımı.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Baca ve Duvar Dibi İzolasyonu",
+        "description": "Çatı üzerinde en fazla su sızıntısının yaşandığı kritik noktalar baca dipleri ve duvar/çatı birleşimleridir. Bu bölgelere özel elastomerik yalıtım bant, kurşun veya alüminyum şapşala ile kalıcı sızdırmazlık sağlıyoruz.",
+        "features": [
+          { "feature": "Baca çevresi kurşun ve alüminyum şapşala" },
+          { "feature": "Elastomerik yalıtım bant uygulaması" },
+          { "feature": "Duvar-çatı birleşim noktası işleme" },
+          { "feature": "Bitümlü mastik ve dolgu işlemi" },
+          { "feature": "Tamir ve yenileme hizmeti" },
+          { "feature": "Garanti belgeli uygulama" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Baca ve Duvar Dibi İzolasyonu | Hızır Teknik",
+      "description": "Çatı baca dibi ve duvar birleşim noktası su yalıtımı. Kurşun şapşala ve elastomerik bant ile kalıcı sızdırmazlık.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 137,
+    "slug": "cati-sizintisi-tespiti-ve-tamiri",
+    "featured": false,
+    "title": "Çatı Sızıntısı Tespiti ve Tamiri",
+    "description": "Çatı ve dış cepheden kaynaklanan su sızıntılarının noktasal tespiti ve onarımı.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Çatı Sızıntısı Tespiti ve Tamiri",
+        "description": "Çatıdan kaynaklanıp iç mekâna yansıyan su sızıntılarını termal kamera ve nem ölçüm cihazlarıyla noktasal olarak tespit ediyor, kalıcı onarım yapıyoruz. Gereksiz ve pahalı sökme işlemleri olmadan çözüm sunuyoruz.",
+        "features": [
+          { "feature": "Termal kamera ile sızıntı noktası tespiti" },
+          { "feature": "Nem ve rutubet ölçümü" },
+          { "feature": "Yerel ve noktasal tamir uygulaması" },
+          { "feature": "Kiremit, membran ve metal çatı tamiri" },
+          { "feature": "Sızdırmazlık enjeksiyon ve dolgu" },
+          { "feature": "Önleyici bakım önerileri" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Çatı Sızıntısı Tespiti ve Tamiri | Hızır Teknik",
+      "description": "Çatı su sızıntısının termal kamera ile noktasal tespiti ve kalıcı tamiri. Gereksiz sökme olmadan hızlı çözüm.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 138,
+    "slug": "cati-temizligi-ve-bakimi",
+    "featured": false,
+    "title": "Çatı Temizliği ve Bakımı",
+    "description": "Yosun, kir ve yaprak birikintilerinin temizlenmesi ile periyodik çatı bakım hizmeti.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Çatı Temizliği ve Bakımı",
+        "description": "Çatı üzerinde biriken yosun, kir, yaprak ve moloz hem görüntü kirliliğine hem de kiremit ve kaplama malzemesinin ömrünü kısaltan nemliliğe neden olur. Periyodik temizlik ve bakımla çatınızın ömrünü uzatıyoruz.",
+        "features": [
+          { "feature": "Yosun ve alg temizliği (biyosit uygulama)" },
+          { "feature": "Basınçlı su ile yüzey yıkama" },
+          { "feature": "Yaprak, kum ve moloz temizliği" },
+          { "feature": "Oluk ve dere temizliği" },
+          { "feature": "Hasar ve risk noktası kontrol raporu" },
+          { "feature": "Yıllık bakım sözleşmesi imkânı" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Çatı Temizliği ve Bakımı | Hızır Teknik",
+      "description": "Yosun giderme, çatı yıkama ve periyodik bakım hizmeti. Çatınızın ömrünü uzatın.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  },
+  {
+    "id": 139,
+    "slug": "dis-cephe-yenileme-ve-tadilat",
+    "featured": false,
+    "title": "Dış Cephe Yenileme ve Tadilat",
+    "description": "Eski ve yıpranmış dış cephelerin sıva, boya ve kaplama ile komple yenilenmesi.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Dış Cephe Yenileme ve Tadilat",
+        "description": "Zamanla yıpranmış, çatlak ve rengi solmuş bina dış cephelerini baştan sona yeniliyoruz. Sıva tamiri, mantolama, kaplama veya boya tercihlerinize göre binaya yepyeni bir görünüm kazandırıyoruz.",
+        "features": [
+          { "feature": "Mevcut hasar tespiti ve sıva tamiri" },
+          { "feature": "Dış cephe boya ve mantolama" },
+          { "feature": "Cephe kaplama yenileme seçenekleri" },
+          { "feature": "Dekoratif söve ve profil uygulamaları" },
+          { "feature": "Renk ve malzeme danışmanlığı" },
+          { "feature": "İskele kurulum dahil komple hizmet" }
+        ],
+        "images": [
+          { "image": null },
+          { "image": null },
+          { "image": null }
+        ]
+      }
+    ],
+    "meta": {
+      "title": "Dış Cephe Yenileme ve Tadilat | Hızır Teknik",
+      "description": "Eski ve yıpranmış dış cephenin sıva, boya ve kaplama ile komple yenilenmesi. Ankara'da profesyonel cephe yenileme.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": {
+      "id": 4,
+      "slug": "cati-ve-cephe",
+      "title": "Çatı ve Cephe",
+      "description": "Binanızın dış cephesi ve çatısı için profesyonel çözümler sunuyoruz. İzolasyon, kaplama ve yenileme işlemlerinde uzman ekibimizle kaliteli ve garantili hizmet veriyoruz.",
+      "icon": "cati-ve-cephe",
+      "featured_image": null,
+      "_status": "published"
+    },
+    "_status": "published"
+  }
+]

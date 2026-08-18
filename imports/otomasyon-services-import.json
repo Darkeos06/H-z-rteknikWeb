@@ -1,0 +1,642 @@
+[
+  {
+    "slug": "guvenlik-kamera-sistemi-kurulumu",
+    "featured": false,
+    "title": "Güvenlik Kamera Sistemi Kurulumu",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Ev, işyeri ve sanayi tesisleri için analog, HD ve IP tabanlı güvenlik kamera sistemlerinin kurulumu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Güvenlik Kamera Sistemi Kurulumu Hakkında",
+        "description": "Konutlardan büyük sanayi tesislerine kadar her ölçekte güvenlik kamera sistemi tasarlıyor ve kuruyoruz. Analog, HD-TVI/CVI/AHD ve tam IP tabanlı sistemleri eksiksiz biçimde devreye alıyoruz.",
+        "features": [
+          { "feature": "Analog, HD ve IP kamera sistemleri" },
+          { "feature": "DVR ve NVR kayıt cihazı kurulumu" },
+          { "feature": "Uzaktan izleme ve mobil erişim" },
+          { "feature": "Gece görüş ve hareket algılama" },
+          { "feature": "Yüksek çözünürlüklü görüntü kaydı" },
+          { "feature": "Kablo altyapısı ve montaj" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Güvenlik Kamera Sistemi Kurulumu | Hızır Teknik",
+      "description": "Ev, işyeri ve sanayi için analog, HD ve IP tabanlı güvenlik kamera sistemi kurulumu. Profesyonel montaj ve devreye alma.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "kamera-kontrol-sistemi-bakim-ve-servisi",
+    "featured": false,
+    "title": "Kamera Kontrol Sistemi Bakım ve Servisi",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Mevcut kamera sistemlerinin periyodik bakımı, arıza giderimi ve güncellenmesi.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Kamera Kontrol Sistemi Bakım ve Servisi",
+        "description": "Kurulu güvenlik kamera ve kayıt sistemlerinin düzenli bakımını, arıza tespitini ve yazılım güncellemelerini gerçekleştiriyoruz. Kesintisiz güvenlik için periyodik servis önemlidir.",
+        "features": [
+          { "feature": "Periyodik bakım ve temizlik" },
+          { "feature": "Arıza tespiti ve giderimi" },
+          { "feature": "Yazılım ve firmware güncellemeleri" },
+          { "feature": "Kamera lens ve görüntü kalibrasyonu" },
+          { "feature": "Kayıt cihazı disk kontrolü" },
+          { "feature": "Servis sözleşmesi imkânı" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Kamera Kontrol Sistemi Bakım ve Servisi | Hızır Teknik",
+      "description": "Güvenlik kamera sistemlerinin periyodik bakımı, arıza giderimi ve güncellenmesi. Uzman teknik ekip.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "ip-kamera-ve-nvr-kurulumu",
+    "featured": false,
+    "title": "IP Kamera ve NVR Kurulumu",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Ağ tabanlı IP kamera ve kayıt cihazı (NVR/DVR) kurulum ve konfigürasyonu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "IP Kamera ve NVR Kurulumu",
+        "description": "Yüksek çözünürlüklü IP kamera sistemleri ve NVR kayıt cihazlarının ağ altyapısıyla entegre kurulumunu yapıyoruz. PoE switch, kablo döşemesi ve yazılım konfigürasyonu dahildir.",
+        "features": [
+          { "feature": "IP kamera seçimi ve konumlandırma" },
+          { "feature": "NVR/DVR kurulum ve konfigürasyonu" },
+          { "feature": "PoE switch ve ağ altyapısı" },
+          { "feature": "ONVIF uyumlu cihaz entegrasyonu" },
+          { "feature": "Uzaktan erişim ve mobil uygulama kurulumu" },
+          { "feature": "4K ve yüksek çözünürlük desteği" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "IP Kamera ve NVR Kurulumu | Hızır Teknik",
+      "description": "Ağ tabanlı IP kamera ve NVR kayıt cihazı kurulum ve konfigürasyonu. Yüksek çözünürlüklü güvenlik sistemleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "frekans-kontrol-panosu-montaji",
+    "featured": false,
+    "title": "Frekans Kontrol Panosu Montajı",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Pompa, fan ve motor sistemleri için frekans invertörlü kontrol panosu tasarım ve montajı.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Frekans Kontrol Panosu Montajı",
+        "description": "Motor, pompa ve fan sistemlerinde enerji tasarrufu ve verimlilik için frekans dönüştürücü (inverter) içeren kontrol panolarını tasarlayıp üretiyoruz. Komple montaj ve devreye alma hizmeti sunuyoruz.",
+        "features": [
+          { "feature": "Frekans invertör seçimi ve entegrasyonu" },
+          { "feature": "Pano tasarım ve imalatı" },
+          { "feature": "Motor yumuşak start/stop konfigürasyonu" },
+          { "feature": "Enerji tasarrufu optimizasyonu" },
+          { "feature": "PID kontrol parametresi ayarı" },
+          { "feature": "Sahaya montaj ve devreye alma" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Frekans Kontrol Panosu Montajı | Hızır Teknik",
+      "description": "Pompa, fan ve motor sistemleri için frekans invertörlü kontrol panosu tasarım ve montajı. Enerji tasarrufu sağlayan çözümler.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "motor-surucu-inverter-kurulum-ve-bakimi",
+    "featured": false,
+    "title": "Motor Sürücü (İnverter) Kurulum ve Bakımı",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "AC/DC motor sürücülerinin devreye alınması, parametrelendirilmesi ve periyodik bakımı.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Motor Sürücü (İnverter) Kurulum ve Bakımı",
+        "description": "Endüstriyel tesislerde kullanılan AC ve DC motor sürücülerinin (inverter/VFD) kurulum, parametre ayarı, devreye alma ve periyodik bakım hizmetlerini sunuyoruz. Siemens, ABB, Danfoss, Schneider ve diğer markalar desteklenmektedir.",
+        "features": [
+          { "feature": "AC ve DC inverter kurulumu" },
+          { "feature": "Parametre ve hız profili ayarı" },
+          { "feature": "Devreye alma ve test" },
+          { "feature": "Arıza teşhis ve onarım" },
+          { "feature": "Periyodik bakım ve kontrol" },
+          { "feature": "Marka bağımsız servis desteği" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Motor Sürücü (İnverter) Kurulum ve Bakımı | Hızır Teknik",
+      "description": "AC/DC motor sürücülerinin devreye alınması, parametrelendirilmesi ve periyodik bakımı. Uzman inverter servisi.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "elektronik-kontrol-panosu-montaji",
+    "featured": false,
+    "title": "Elektronik Kontrol Panosu Montajı",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Endüstriyel ve ticari tesisler için elektronik kontrol panosu montaj ve devreye alma.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Elektronik Kontrol Panosu Montajı",
+        "description": "Fabrika, atölye ve ticari binalarda ihtiyaç duyulan elektronik kontrol panolarının tasarım, üretim, montaj ve devreye alma süreçlerini eksiksiz yönetiyoruz.",
+        "features": [
+          { "feature": "Pano tasarım ve imalatı" },
+          { "feature": "Röle, sigorta ve kontaktör montajı" },
+          { "feature": "Kablaj ve bağlantı işlemleri" },
+          { "feature": "Elektrik testleri ve kabulü" },
+          { "feature": "Sahaya nakliye ve montaj" },
+          { "feature": "Devreye alma ve eğitim" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Elektronik Kontrol Panosu Montajı | Hızır Teknik",
+      "description": "Endüstriyel ve ticari tesisler için elektronik kontrol panosu montaj ve devreye alma hizmetleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "otomasyon-panosu-imalati-ve-montaji",
+    "featured": false,
+    "title": "Otomasyon Panosu İmalatı ve Montajı",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "PLC, röle, kontaktör ve sürücü içeren otomasyon panolarının imalatı ve sahaya montajı.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Otomasyon Panosu İmalatı ve Montajı",
+        "description": "PLC, HMI, inverter, röle ve kontaktörden oluşan komple otomasyon panolarını proje gereksinimlerinize göre imal ediyor ve sahaya monte ediyoruz.",
+        "features": [
+          { "feature": "Proje bazlı pano tasarımı" },
+          { "feature": "PLC ve HMI entegrasyonu" },
+          { "feature": "Güç ve kontrol devreleri" },
+          { "feature": "Kablaj ve etiketleme" },
+          { "feature": "FAT (Fabrika Kabul Testi)" },
+          { "feature": "Sahaya montaj ve devreye alma" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Otomasyon Panosu İmalatı ve Montajı | Hızır Teknik",
+      "description": "PLC, röle, kontaktör ve sürücü içeren otomasyon panolarının imalatı ve sahaya montajı hizmetleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "plc-kontrol-sistemi-kurulumu",
+    "featured": false,
+    "title": "PLC Kontrol Sistemi Kurulumu",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Siemens, Schneider, Delta ve diğer markalarda PLC tabanlı kontrol sistemi kurulumu ve programlama.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "PLC Kontrol Sistemi Kurulumu",
+        "description": "Üretim süreçlerinizi otomatize etmek için Siemens S7, Schneider Modicon, Delta DVP ve diğer marka PLC sistemlerini kuruyoruz; ihtiyacınıza özel yazılım geliştiriyor ve devreye alıyoruz.",
+        "features": [
+          { "feature": "Siemens, Schneider, Delta PLC kurulumu" },
+          { "feature": "PLC program geliştirme (Ladder, FBD, SCL)" },
+          { "feature": "I/O konfigürasyonu ve kablajı" },
+          { "feature": "Saha sensörü ve aktüatör entegrasyonu" },
+          { "feature": "Test, devreye alma ve optimizasyon" },
+          { "feature": "Uzaktan erişim ve bakım desteği" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "PLC Kontrol Sistemi Kurulumu | Hızır Teknik",
+      "description": "Siemens, Schneider, Delta ve diğer markalarda PLC tabanlı kontrol sistemi kurulumu ve programlama hizmetleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "scada-sistemi-kurulumu-ve-devreye-alma",
+    "featured": false,
+    "title": "SCADA Sistemi Kurulumu ve Devreye Alma",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Uzaktan izleme ve kontrol için SCADA yazılım ve donanım kurulumu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "SCADA Sistemi Kurulumu ve Devreye Alma",
+        "description": "Tesisinizin tamamını merkezi olarak izlemek ve yönetmek için SCADA (Supervisory Control and Data Acquisition) sistemlerini tasarlıyor, kuruyoruz. WinCC, Ignition, InTouch ve benzeri platformlarda uzmanız.",
+        "features": [
+          { "feature": "SCADA yazılımı kurulum ve konfigürasyonu" },
+          { "feature": "OPC UA/DA iletişim entegrasyonu" },
+          { "feature": "Alarm ve olay yönetimi" },
+          { "feature": "Trend ve raporlama modülleri" },
+          { "feature": "PLC/RTU haberleşme entegrasyonu" },
+          { "feature": "Operatör eğitimi ve dokümantasyon" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "SCADA Sistemi Kurulumu ve Devreye Alma | Hızır Teknik",
+      "description": "Uzaktan izleme ve kontrol için SCADA yazılım ve donanım kurulumu. Merkezi tesis yönetim çözümleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "bina-yonetim-sistemi-bms-kurulumu",
+    "featured": false,
+    "title": "Bina Yönetim Sistemi (BMS) Kurulumu",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Büyük ölçekli binalarda ısıtma, soğutma, aydınlatma ve güvenliği tek merkezden yöneten BMS kurulumu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Bina Yönetim Sistemi (BMS) Kurulumu",
+        "description": "Otel, alışveriş merkezi, hastane ve ofis binalarında tüm mekanik ve elektriksel sistemleri merkezi bir platform üzerinden izlemeye ve kontrol etmeye olanak sağlayan BMS çözümlerini kuruyoruz.",
+        "features": [
+          { "feature": "HVAC, aydınlatma ve güvenlik entegrasyonu" },
+          { "feature": "BACnet, Modbus, KNX protokol desteği" },
+          { "feature": "Enerji tüketimi izleme ve raporlama" },
+          { "feature": "Merkezi operatör arayüzü (dashboard)" },
+          { "feature": "Alarm yönetimi ve bildirim sistemi" },
+          { "feature": "Bakım ve servis desteği" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Bina Yönetim Sistemi (BMS) Kurulumu | Hızır Teknik",
+      "description": "Büyük ölçekli binalarda ısıtma, soğutma, aydınlatma ve güvenliği tek merkezden yöneten BMS kurulum hizmetleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "erisim-kontrol-sistemi-kurulumu",
+    "featured": false,
+    "title": "Erişim Kontrol Sistemi Kurulumu",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Kart okuyucu, biyometrik ve şifreli erişim kontrol sistemlerinin kurulumu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Erişim Kontrol Sistemi Kurulumu",
+        "description": "İşyeri, site ve tesislerinizde yetkisiz girişleri önlemek için RFID kart, biyometrik parmak izi/yüz tanıma ve şifre tabanlı erişim kontrol sistemleri kuruyoruz. Turnike ve elektrikli kilit entegrasyonu da sağlanmaktadır.",
+        "features": [
+          { "feature": "RFID kart okuyucu sistemleri" },
+          { "feature": "Biyometrik parmak izi ve yüz tanıma" },
+          { "feature": "Elektrikli kilit ve turnike entegrasyonu" },
+          { "feature": "Merkezi yönetim yazılımı" },
+          { "feature": "Kapı kontrolörü ve kablaj" },
+          { "feature": "Raporlama ve log kaydı" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Erişim Kontrol Sistemi Kurulumu | Hızır Teknik",
+      "description": "Kart okuyucu, biyometrik ve şifreli erişim kontrol sistemlerinin kurulumu. Güvenli tesis yönetimi.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "alarm-ve-guvenlik-sistemi-kurulumu",
+    "featured": false,
+    "title": "Alarm ve Güvenlik Sistemi Kurulumu",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Hırsız alarm, hareket algılama ve merkeze bağlantılı güvenlik sistemi kurulumu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Alarm ve Güvenlik Sistemi Kurulumu",
+        "description": "Konut, işyeri ve endüstriyel tesisler için hareket sensörü, manyetik kontak, cam kırılma dedektörü ve merkeze bağlantılı alarm sistemlerini tasarlayıp kuruyoruz.",
+        "features": [
+          { "feature": "Hırsız alarm paneli ve sensörler" },
+          { "feature": "Hareket dedektörü ve cam kırılma sensörü" },
+          { "feature": "Alarm izleme merkezi bağlantısı" },
+          { "feature": "GSM ve IP iletişim modülleri" },
+          { "feature": "Siren ve uyarı sistemleri" },
+          { "feature": "Periyodik test ve bakım" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Alarm ve Güvenlik Sistemi Kurulumu | Hızır Teknik",
+      "description": "Hırsız alarm, hareket algılama ve merkeze bağlantılı güvenlik sistemi kurulumu hizmetleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "video-interkom-sistemi-montaji",
+    "featured": false,
+    "title": "Video İnterkom Sistemi Montajı",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Görüntülü kapı zili ve interkom sistemlerinin montajı ve konfigürasyonu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Video İnterkom Sistemi Montajı",
+        "description": "Rezidans, villa, site ve ticari binalar için görüntülü interkom ve kapı zili sistemlerinin kurulumunu ve konfigürasyonunu yapıyoruz. IP tabanlı ve analog sistemler için tam destek sağlanmaktadır.",
+        "features": [
+          { "feature": "Görüntülü kapı paneli montajı" },
+          { "feature": "İç mekan monitörü kurulumu" },
+          { "feature": "IP ve analog sistem desteği" },
+          { "feature": "Elektrikli kilit ve kapı açma entegrasyonu" },
+          { "feature": "Mobil uygulama entegrasyonu" },
+          { "feature": "Kablo altyapısı ve montaj" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Video İnterkom Sistemi Montajı | Hızır Teknik",
+      "description": "Görüntülü kapı zili ve interkom sistemlerinin montajı ve konfigürasyonu. Profesyonel kurulum hizmeti.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "akilli-bina-otomasyon-sistemi-kurulumu",
+    "featured": false,
+    "title": "Akıllı Bina Otomasyon Sistemi Kurulumu",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Enerji yönetimi, konfor ve güvenliği entegre eden akıllı bina otomasyon çözümleri.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Akıllı Bina Otomasyon Sistemi Kurulumu",
+        "description": "KNX, DALI, LON ve diğer protokollerle aydınlatma, HVAC, jaluziler, güvenlik ve enerji yönetimini tek platform üzerinde birleştiren akıllı bina çözümleri kuruyoruz.",
+        "features": [
+          { "feature": "KNX, DALI, LON protokol desteği" },
+          { "feature": "Aydınlatma ve HVAC otomasyonu" },
+          { "feature": "Jaluzi ve perde kontrolü" },
+          { "feature": "Enerji yönetimi ve tasarrufu" },
+          { "feature": "Merkezi kontrol paneli" },
+          { "feature": "Mobil uygulama ile uzaktan yönetim" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Akıllı Bina Otomasyon Sistemi Kurulumu | Hızır Teknik",
+      "description": "Enerji yönetimi, konfor ve güvenliği entegre eden akıllı bina otomasyon sistemi kurulumu.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "enerji-izleme-ve-yonetim-sistemi-kurulumu",
+    "featured": false,
+    "title": "Enerji İzleme ve Yönetim Sistemi Kurulumu",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Tüketim takibi, raporlama ve enerji optimizasyonu için izleme sistemi kurulumu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Enerji İzleme ve Yönetim Sistemi Kurulumu",
+        "description": "Tesisinizin elektrik, doğalgaz ve su tüketimini gerçek zamanlı izlemek, analiz etmek ve optimize etmek için enerji yönetim sistemi (EMS) çözümleri kuruyoruz.",
+        "features": [
+          { "feature": "Elektrik sayacı ve analizör entegrasyonu" },
+          { "feature": "Gerçek zamanlı tüketim izleme" },
+          { "feature": "Raporlama ve trend analizi" },
+          { "feature": "Talep yönetimi ve yük dengeleme" },
+          { "feature": "ISO 50001 uyumlu sistemler" },
+          { "feature": "Web ve mobil erişim" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Enerji İzleme ve Yönetim Sistemi Kurulumu | Hızır Teknik",
+      "description": "Tüketim takibi, raporlama ve enerji optimizasyonu için enerji izleme sistemi kurulum hizmetleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "yangin-algilama-sistemi-kurulumu",
+    "featured": false,
+    "title": "Yangın Algılama Sistemi Kurulumu",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Duman dedektörü, ısı sensörü ve alarm panelinden oluşan yangın algılama sistemi kurulumu.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Yangın Algılama Sistemi Kurulumu",
+        "description": "TSE ve EN standardına uygun duman dedektörü, ısı sensörü, el butonları ve yangın alarm panelinden oluşan komple yangın algılama sistemlerini tasarlayıp kuruyoruz. Adresli ve konvansiyonel sistem çözümleri sunuyoruz.",
+        "features": [
+          { "feature": "Adresli ve konvansiyonel yangın alarm paneli" },
+          { "feature": "Duman ve ısı dedektörleri" },
+          { "feature": "El butonları ve uyarı sirenleri" },
+          { "feature": "İtfaiye ve acil servis bağlantısı" },
+          { "feature": "TSE ve EN standartlarına uyumluluk" },
+          { "feature": "Yıllık bakım ve test hizmeti" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Yangın Algılama Sistemi Kurulumu | Hızır Teknik",
+      "description": "Duman dedektörü, ısı sensörü ve alarm panelinden oluşan yangın algılama sistemi kurulum hizmetleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "kompanzasyon-panosu-montaji-ve-bakimi",
+    "featured": false,
+    "title": "Kompanzasyon Panosu Montajı ve Bakımı",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Reaktif güç kompanzasyonu için pano tasarım, montaj ve periyodik bakım.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Kompanzasyon Panosu Montajı ve Bakımı",
+        "description": "Reaktif güç tüketimini azaltmak, enerji faturasını düşürmek ve güç kalitesini artırmak için kondansatör bazlı kompanzasyon panolarını tasarlıyor, monte ediyor ve bakımını yapıyoruz.",
+        "features": [
+          { "feature": "Güç faktörü analizi ve hesaplama" },
+          { "feature": "Otomatik ve sabit kompanzasyon panoları" },
+          { "feature": "Kondansatör ve reaktör montajı" },
+          { "feature": "Harmonik filtre entegrasyonu" },
+          { "feature": "Periyodik bakım ve kondansatör değişimi" },
+          { "feature": "Enerji tasarrufu raporu" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Kompanzasyon Panosu Montajı ve Bakımı | Hızır Teknik",
+      "description": "Reaktif güç kompanzasyonu için pano tasarım, montaj ve periyodik bakım. Enerji faturasını düşürün.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "hmi-panel-kurulumu-ve-programlama",
+    "featured": false,
+    "title": "HMI Panel Kurulumu ve Programlama",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Dokunmatik operatör paneli (HMI) kurulumu, yazılım yapılandırması ve devreye alma.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "HMI Panel Kurulumu ve Programlama",
+        "description": "Endüstriyel makineler ve otomasyon sistemleri için Siemens, Weintek, Schneider ve diğer marka dokunmatik HMI panellerini kuruyor, yazılım geliştiriyor ve devreye alıyoruz.",
+        "features": [
+          { "feature": "HMI donanım seçimi ve montajı" },
+          { "feature": "Ekran tasarımı ve tag konfigürasyonu" },
+          { "feature": "PLC haberleşme entegrasyonu" },
+          { "feature": "Alarm ve olay yönetimi ekranları" },
+          { "feature": "Reçete ve parametre yönetimi" },
+          { "feature": "Operatör eğitimi ve dokümantasyon" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "HMI Panel Kurulumu ve Programlama | Hızır Teknik",
+      "description": "Dokunmatik operatör paneli (HMI) kurulumu, yazılım yapılandırması ve devreye alma hizmetleri.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "otomasyon-sistemi-ariza-tespiti-ve-onarimi",
+    "featured": false,
+    "title": "Otomasyon Sistemi Arıza Tespiti ve Onarımı",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "PLC, HMI, sürücü ve otomasyon panolarındaki arızaların tespiti ve giderilmesi.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Otomasyon Sistemi Arıza Tespiti ve Onarımı",
+        "description": "Duraksayan üretim hatlarında ve arızalı otomasyon sistemlerinde hızlı arıza tespiti yapıyor, PLC, HMI, inverter ve kontrol panolarını onarıyoruz. Acil müdahale hizmeti mevcuttur.",
+        "features": [
+          { "feature": "PLC arıza teşhis ve onarımı" },
+          { "feature": "HMI ekran ve yazılım sorunları giderimi" },
+          { "feature": "İnverter ve sürücü servisi" },
+          { "feature": "Kontrol panosu elektrik arızaları" },
+          { "feature": "Acil müdahale hizmeti" },
+          { "feature": "Yedek parça temini ve değişimi" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Otomasyon Sistemi Arıza Tespiti ve Onarımı | Hızır Teknik",
+      "description": "PLC, HMI, sürücü ve otomasyon panolarındaki arızaların tespiti ve giderilmesi. Hızlı müdahale.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  },
+  {
+    "slug": "akilli-ev-sistemi-kurulumu",
+    "featured": false,
+    "title": "Akıllı Ev Sistemi Kurulumu",
+    "icon": "otomasyon-sistemi-kurulumu",
+    "description": "Aydınlatma, perde, ısıtma ve güvenlik sistemlerinin entegre akıllı ev otomasyonu ile kontrolü.",
+    "blocks": [
+      {
+        "blockType": "service-description-block",
+        "blockName": "",
+        "title": "Akıllı Ev Sistemi Kurulumu",
+        "description": "Evinizin aydınlatma, perde, klima, ısıtma, güvenlik ve eğlence sistemlerini tek bir uygulama veya sesli asistan üzerinden kontrol edin. KNX, Z-Wave, Zigbee ve Wi-Fi tabanlı çözümler sunuyoruz.",
+        "features": [
+          { "feature": "Aydınlatma senaryosu ve kontrolü" },
+          { "feature": "Motorlu perde ve jaluzi sistemi" },
+          { "feature": "Isıtma ve soğutma otomasyonu" },
+          { "feature": "Güvenlik kamera ve alarm entegrasyonu" },
+          { "feature": "Sesli asistan (Google, Amazon, Apple) desteği" },
+          { "feature": "Mobil uygulama ile uzaktan kontrol" }
+        ],
+        "images": [{ "image": null }, { "image": null }, { "image": null }]
+      }
+    ],
+    "meta": {
+      "title": "Akıllı Ev Sistemi Kurulumu | Hızır Teknik",
+      "description": "Aydınlatma, perde, ısıtma ve güvenlik sistemlerinin entegre akıllı ev otomasyonu ile kontrolü. Konforlu ve güvenli yaşam.",
+      "image": null
+    },
+    "featured_image": null,
+    "related_category": 9,
+    "_status": "published"
+  }
+]

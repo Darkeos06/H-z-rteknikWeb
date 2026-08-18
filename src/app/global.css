@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --radius: 1rem;
+  }
+
+  html {
+    font-family: var(--font-manrope);
+  }
+}
+
+select,
+input[type='text'],
+input[type='number'],
+textarea {
+  font-size: 16px;
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  html,
+  body,
+  body.proposal-page {
+    margin: 0;
+    background: #fff !important;
+  }
+
+  .proposal-print-table-header {
+    display: table-header-group;
+  }
+
+  .proposal-print-item-row,
+  .proposal-print-totals {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+}
